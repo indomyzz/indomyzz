@@ -1,8 +1,9 @@
-<h1 align="center">Welcome to my profile! I'm Ayman Atti 👋</h1>
-
 <p align="center">
   <img src="https://media.giphy.com/media/wv1RNuvWMjQ10bzExO/giphy.gif" alt="Custom GIF" width="300" height="200" />
 </p>
+<h1 align="center">Welcome to my profile! I'm Ayman Atti 👋</h1>
+
+
 
 ## ✦ Skills
 
