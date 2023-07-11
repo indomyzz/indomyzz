@@ -6,7 +6,7 @@ I'm a passionate 14-year-old Moroccan Front End Developer with a strong foundati
 
 <div style="display: flex; align-items: center;">
   <a href="https://github.com/indomyzz">
-    <img src="https://github-readme-stats.vercel.app/api?username=indomyzz&show_icons=true&theme=tokyonight" height="200px" alt="Anurag's GitHub stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=indomyzz&show_icons=true&theme=tokyonight)" height="200px" alt="Anurag's GitHub stats">
   </a>
   <!-- Add some spacing -->
   &nbsp;&nbsp;&nbsp;
